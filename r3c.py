@@ -83,7 +83,7 @@ def scraping():
 	 
 	for i in range(len(paths)):
 		if paths[i] == None:
-			paths[i] == '#'
+			paths[i] = '#'
 		elif paths[i].startswith('http'):
 			path_with_http.append(paths[i])		
 		elif not paths[i].startswith('http'):
