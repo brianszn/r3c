@@ -38,11 +38,11 @@ print(r""" - Basic tool for study
 ▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▀───
 ▐▒▒▒▒▒▒▒▒▒Information Gathering▒▒▌────   
 ─▌▒▒▒▒▒▒▒▒▒▒▒▒Tool▒▒▒▒▒▒▒▒▒▒▒▒▒▒▐─────   
-─▐▒▒▒▒▒▒▒▒▒▒By braian "yonk0uz"▒▌─────
+─▐▒▒▒▒▒▒▒▒▒▒By braian 	       ▒▌─────
 ──▐▄▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▄▌──────
 ────▀▄▄▀▀▀▀▀▄▄▀▀▀▀▀▀▀▄▄▀▀▀▀▀▄▄▀────────
 
- ► Github: github.com/yonk0uz
+ ► Github: github.com/brianszn
  ► Use: python3 r3c.py -h
 
  Use with inteligence and obtain great results :)
